@@ -1,0 +1,2 @@
+Hello!This is the text file that has to be appended.
+This is the file used to append the first file.
